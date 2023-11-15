@@ -2,46 +2,28 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# What Can Sentry Do
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover what you can do with **Sentry monitoring inside your IT rooms**.
 
-## Getting Started
+Don't own Sentry yet? Try **Sentry immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
-Get started by **creating a new site**.
+## See what's happening
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Get live and recorded video monitoring of all your remote IT romms from anywhere at any time. **Offers better visibility than being there**.
 
-### What you'll need
+## Prevent heat-related failure
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Thermal imaging with 768 monitoring points, combined with ambient temperature.
 
-## Generate a new site
+## Prevent humidity-related failure
 
-Generate a new Docusaurus site using the **classic template**.
+Humidity sensor with ability to correlate against motion and temperature events.
 
-The classic template will automatically be added to your project after you run the command:
+## Get notified in real time
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+Configurable alerts for ultimate control and tailoring to the needs of each room.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## Easy to deploy
 
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Plug Sentry in, show it a QR code, and you are done. Instantly get visibility into the IT room and receive real time alerts that help you to avoid outages and site visits.
